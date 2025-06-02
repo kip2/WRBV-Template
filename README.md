@@ -22,3 +22,4 @@ npm run start
 
 ### LICENSE
 
+This project is licensed under the MIT License.
