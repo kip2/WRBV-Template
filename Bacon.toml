@@ -1,0 +1,5 @@
+[default]
+command = "wasm-pack build --target web"
+
+[bacon]
+default_profile = "default"
