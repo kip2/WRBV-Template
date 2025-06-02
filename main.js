@@ -1,2 +1,2 @@
-import init from "./pkg/walk_the_dog.js";
+import init from "./pkg/template.js";
 init(); 
